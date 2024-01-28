@@ -20,7 +20,9 @@ export default function Dashboard({ auth }) {
                             You're logged in!
                         </div>
 
-                        <button className="btn btn-primary">Primary</button>
+                        <button className="btn btn-primary btn-sm m-5 ">
+                            Dashboard Button
+                        </button>
                     </div>
                 </div>
             </div>
