@@ -45,7 +45,7 @@ export default function Authenticated({ user, header, children }) {
                     </NavLink>
                 </section>
 
-                <section className="min-h-screen w-full lg:pl-[15.5rem] dark:bg-gray-800">
+                <section className="min-h-screen w-full lg:pl-[14rem] dark:bg-gray-800">
                     <div className="sticky top-4">
                         {header && (
                             <header className="bg-white max-w-6xl mx-auto flex justify-between dark:bg-gray-800 shadow rounded">
